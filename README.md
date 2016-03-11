@@ -3,3 +3,5 @@
 
 Zjišťuji, že moje nevědomost byla bezbřehá, bezbřehá je a bezbřehá bude. Co více si přát, než
 získávat úžasné nové vědomosti nabírané přímo v praxi na základě používání dalšího, ještě úžasnějšího, nástroje? Pominuli to, že zadání úkolu bylo jasné a nezvratné jako osud, přijde mi, že kdo dneska nezná Git, jako by nežil.
+
+Nie so si istá, čo robím, tak sa vopred ospravedňujem.
